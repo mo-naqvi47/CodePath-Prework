@@ -27,17 +27,18 @@ The following **additional** features are implemented:
 - [x] A function to round the tip to the nearest dollar 
 
 ## Video Walkthrough
- 
+
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://i.imgur.com/gallery/rTFvlvo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/U6IqYOb.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I spent a few hours trying to implement a bill splitting feature with a maximum value of 5, however the UIStepper was not being updated for some odd reason. I included a function to handle the stepper increments and decrements and other methods. I left those parts of the code commented out, and will revisit in the next few days if possible. 
+I spent a few hours trying to implement a bill splitting feature with a maximum value of 5, however the UIStepper was not being updated for some odd reason. I included a function to handle the stepper increments and decrements and other methods. I left those parts of the code commented out, and will revisit in the next few days. 
 
 ## License
 
