@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 - [x] A function to round the tip to the nearest dollar 
 
 ## Video Walkthrough
-
+ 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/a/1yEtq7v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
